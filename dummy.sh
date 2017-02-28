@@ -1,3 +1,3 @@
 function install() {
-echo "installed"
+echo "installed dep"
 }
